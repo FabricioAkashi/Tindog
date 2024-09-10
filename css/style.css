@@ -27,6 +27,12 @@
   border-radius: 50%;
 }
 
-.title {
+.grid-text-center {
   background-color: #00bfff;
 }
+
+.dogimg {
+  border-radius: 500px;
+  height: 7rem;
+}
+
